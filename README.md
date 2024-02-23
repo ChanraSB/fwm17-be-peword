@@ -29,5 +29,5 @@ npm run dev
 [M. Risano](https://github.com/muhammadrisano)
 ## Related Project
 ⚡[Backend Peworld](https://github.com/ChanraSB/fwm17-be-peword/)⚡<br>
-⚡[Frontend Peworld](https://github.com/ChanraSB/next-HireJob)⚡
+⚡[Frontend Peworld](https://github.com/ChanraSB/next-HireJob)⚡ <br>
 ⚡[Demo Peworld](https://next-hire-job.vercel.app/)⚡
